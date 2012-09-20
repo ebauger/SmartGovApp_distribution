@@ -1,4 +1,4 @@
-Build the drupal profile https://github.com/SmartGov/SmartGovApp
+Build the drupal profile https://github.com/ebauger/SmartGovApp
 
 # Build the distribution
 
